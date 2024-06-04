@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "appTitle": "My App",
+  "content": "Hello",
+  "onBoardingTitle1": "Choose your product",
+  "onBoardingTitle2": "Select payment method",
+  "onBoardingTitle3": "Home delivery",
+  "loginTitle1": "Login"
+}
